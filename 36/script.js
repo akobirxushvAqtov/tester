@@ -339,30 +339,23 @@ for(let i = 1; i<=10; i++){
 }
 */
 
-//alert('saytga kirdiz')
+// alert('saytga kirdiz')
 
-/*
-let prom = prompt('input kiriting')
-console.log(prom, typeof prom)
-*/
+// let prom = prompt('input kiriting')
+// console.log(prom, typeof prom)
 
-/*
-let bool = confirm('saytdan chiqmoqchimisz')
-console.log(bool, typeof bool)
-*/
-/*
-console.log('Hello', 'Islom')
-console.log('%s Hello', 'Islom')
-console.log('%d place', 32)
-console.log('%c Hello World', 'color:red; background: #0000ff; font-size: 50px')
-console.warn('Siz notogri malumot kiritdiz')
-console.error('Siz notogri malumot kiritdiz')
-*/
+// let bool = confirm('saytdan chiqmoqchimisz')
+// console.log(bool, typeof bool)
+// console.log('Hello', 'Islom')
+// console.log('%s Hello', 'Islom')
+// console.log('%d place', 32)
+// console.log('%c Hello World', 'color:red; background: #0000ff; font-size: 50px')
+// console.warn('Siz notogri malumot kiritdiz')
+// console.error('Siz notogri malumot kiritdiz')
 
-/*
-let arr = [[1,2],[1,5],[2,8],[5,1]]
-console.table(arr)
-*/
+// /*
+// let arr = [[1,2],[1,5],[2,8],[5,1]]
+// console.table(arr)
 // let arr = []
 
 // console.time('Regular for loop')
