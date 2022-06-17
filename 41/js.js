@@ -12,7 +12,7 @@
 // console.log(set.size)
 // console.log(set.has('Nurbek'))
 // console.log(set.has('Ozodbek'))
-
+                                                        
 // let set = new Set(['Islom', 'Ozodbek', 'Nurbek','Islom', 'Ozodbek', 'Nurbek'])
 // for(item of set){
 //     console.log(item)
